@@ -1,4 +1,4 @@
 def welcome():
-    print("Welcome")
+    print("Welcome 2")
 
 welcome()
